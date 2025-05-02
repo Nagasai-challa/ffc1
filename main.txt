@@ -1,2 +1,6 @@
 hello this is main file
+<<<<<<< HEAD
 line2 from master
+=======
+added line 2 from side branch
+>>>>>>> feature
